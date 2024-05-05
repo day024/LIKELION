@@ -10,4 +10,4 @@ https://github.com/day024/java-racingcar-simple-playground
 
 3주차 클린로또
 
-https://github.com/day024/java-lotto-clean-playground/tree/day024
+(url:"https://github.com/day024/java-lotto-clean-playground/tree/day024")
