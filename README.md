@@ -6,6 +6,7 @@
   **1주차** 
 
   **2주차**
+  
   [2주차 자동차 경주 - 초간단 애플리케이션](https://github.com/day024/java-racingcar-simple-playground)
   [PR&Review](https://github.com/next-step/java-racingcar-simple-playground/pull/24)
   
