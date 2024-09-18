@@ -10,3 +10,5 @@
   [3주차 클린코드 - 로또](https://github.com/day024/java-lotto-clean-playground/tree/day024)
   
   [4주차 Spring MVC](https://github.com/day024/spring-roomescape-playground)
+
+  [Spring Core](https://github.com/next-step/spring-roomescape-playground/pull/274)
